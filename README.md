@@ -1,4 +1,4 @@
-🚨MOVED🚨 Use 🌅https://github.com/dpwolfe/good-morning 🌅instead!
+# 🚨MOVED🚨 Use 🌅https://github.com/dpwolfe/good-morning 🌅instead!
 
 # Shared Engineering Environment Files
 Setup a vanilla machine quickly instead of wasting half a day.
